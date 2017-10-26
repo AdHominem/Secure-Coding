@@ -18,4 +18,5 @@ https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standar
 
 https://www.owasp.org/index.php/Secure_Coding_Cheat_Sheet
 https://www.safecode.org/publications/#safecodepublications-186 (partly outdated)
+
 https://www.owasp.org/index.php/Projects/OWASP_Development_Guide (partly outdated)
